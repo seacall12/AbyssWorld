@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "wep_001",
+      "name": "심연의 검",
+      "type": "무기",
+      "grade": "전설",
+      "required_level": 30,
+      "stats": {
+        "attack": 120,
+        "critical_rate": 5,
+        "element": "어둠"
+      },
+      "set": "심연 세트",
+      "drop_from": ["boss_abyss_knight", "elite_dark_champion"],
+      "description": "심연의 힘이 깃든 전설적인 검. 깊은 어둠 속에서 진정한 힘을 발휘한다."
+    },
+    {
+      "id": "arm_001",
+      "name": "심연의 갑옷",
+      "type": "방어구",
+      "grade": "전설",
+      "required_level": 30,
+      "stats": {
+        "defense": 80,
+        "hp": 300,
+        "resistance": "암흑 저항 +10%"
+      },
+      "set": "심연 세트",
+      "drop_from": ["boss_shadow_beast", "elite_shadow_guard"],
+      "description": "심연의 에너지를 흡수하여 방어력을 극대화하는 갑옷."
+    },
+    {
+      "id": "potion_001",
+      "name": "고급 HP 포션",
+      "type": "소모품",
+      "grade": "고급",
+      "required_level": 5,
+      "effect": {
+        "heal": 500
+      },
+      "usable_in_combat": true,
+      "cooldown_sec": 10,
+      "description": "사용 시 HP를 500 회복한다. 전투 중에도 사용 가능."
+    }
+  ]
+}
