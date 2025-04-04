@@ -1,0 +1,802 @@
+[
+  {
+    "id": "weapon_001",
+    "name": "Iron Cry",
+    "type": "Bow",
+    "tier": "Common",
+    "attack": 67,
+    "description": "A common bow named 'Iron Cry'."
+  },
+  {
+    "id": "weapon_002",
+    "name": "Shadow Roar",
+    "type": "Spear",
+    "tier": "Common",
+    "attack": 27,
+    "description": "A common spear named 'Shadow Roar'."
+  },
+  {
+    "id": "weapon_003",
+    "name": "Doom Bite",
+    "type": "Greatsword",
+    "tier": "Common",
+    "attack": 64,
+    "description": "A common greatsword named 'Doom Bite'."
+  },
+  {
+    "id": "weapon_004",
+    "name": "Doom Song",
+    "type": "Dagger",
+    "tier": "Common",
+    "attack": 91,
+    "description": "A common dagger named 'Doom Song'."
+  },
+  {
+    "id": "weapon_005",
+    "name": "Iron Fang",
+    "type": "Crossbow",
+    "tier": "Common",
+    "attack": 73,
+    "description": "A common crossbow named 'Iron Fang'."
+  },
+  {
+    "id": "weapon_006",
+    "name": "Phantom Strike",
+    "type": "Greatsword",
+    "tier": "Common",
+    "attack": 23,
+    "description": "A common greatsword named 'Phantom Strike'."
+  },
+  {
+    "id": "weapon_007",
+    "name": "Frost Claw",
+    "type": "Axe",
+    "tier": "Common",
+    "attack": 17,
+    "description": "A common axe named 'Frost Claw'."
+  },
+  {
+    "id": "weapon_008",
+    "name": "Storm Fang",
+    "type": "Axe",
+    "tier": "Common",
+    "attack": 64,
+    "description": "A common axe named 'Storm Fang'."
+  },
+  {
+    "id": "weapon_009",
+    "name": "Iron Song",
+    "type": "Greatsword",
+    "tier": "Common",
+    "attack": 13,
+    "description": "A common greatsword named 'Iron Song'."
+  },
+  {
+    "id": "weapon_010",
+    "name": "Blood Cry",
+    "type": "Sword",
+    "tier": "Common",
+    "attack": 89,
+    "description": "A common sword named 'Blood Cry'."
+  },
+  {
+    "id": "weapon_011",
+    "name": "Doom Strike",
+    "type": "Bow",
+    "tier": "Uncommon",
+    "attack": 106,
+    "description": "A uncommon bow named 'Doom Strike'."
+  },
+  {
+    "id": "weapon_012",
+    "name": "Doom Cry",
+    "type": "Crossbow",
+    "tier": "Uncommon",
+    "attack": 69,
+    "description": "A uncommon crossbow named 'Doom Cry'."
+  },
+  {
+    "id": "weapon_013",
+    "name": "Iron Edge",
+    "type": "Bow",
+    "tier": "Uncommon",
+    "attack": 53,
+    "description": "A uncommon bow named 'Iron Edge'."
+  },
+  {
+    "id": "weapon_014",
+    "name": "Venom Fang",
+    "type": "Crossbow",
+    "tier": "Uncommon",
+    "attack": 78,
+    "description": "A uncommon crossbow named 'Venom Fang'."
+  },
+  {
+    "id": "weapon_015",
+    "name": "Holy Edge",
+    "type": "Knuckle",
+    "tier": "Uncommon",
+    "attack": 51,
+    "description": "A uncommon knuckle named 'Holy Edge'."
+  },
+  {
+    "id": "weapon_016",
+    "name": "Iron Fang",
+    "type": "Spear",
+    "tier": "Uncommon",
+    "attack": 114,
+    "description": "A uncommon spear named 'Iron Fang'."
+  },
+  {
+    "id": "weapon_017",
+    "name": "Venom Strike",
+    "type": "Crossbow",
+    "tier": "Uncommon",
+    "attack": 81,
+    "description": "A uncommon crossbow named 'Venom Strike'."
+  },
+  {
+    "id": "weapon_018",
+    "name": "Flame Bite",
+    "type": "Dagger",
+    "tier": "Uncommon",
+    "attack": 89,
+    "description": "A uncommon dagger named 'Flame Bite'."
+  },
+  {
+    "id": "weapon_019",
+    "name": "Frost Edge",
+    "type": "Staff",
+    "tier": "Uncommon",
+    "attack": 96,
+    "description": "A uncommon staff named 'Frost Edge'."
+  },
+  {
+    "id": "weapon_020",
+    "name": "Venom Strike",
+    "type": "Axe",
+    "tier": "Uncommon",
+    "attack": 79,
+    "description": "A uncommon axe named 'Venom Strike'."
+  },
+  {
+    "id": "weapon_021",
+    "name": "Doom Strike",
+    "type": "Staff",
+    "tier": "Rare",
+    "attack": 106,
+    "description": "A rare staff named 'Doom Strike'."
+  },
+  {
+    "id": "weapon_022",
+    "name": "Frost Claw",
+    "type": "Crossbow",
+    "tier": "Rare",
+    "attack": 105,
+    "description": "A rare crossbow named 'Frost Claw'."
+  },
+  {
+    "id": "weapon_023",
+    "name": "Blood Cry",
+    "type": "Spear",
+    "tier": "Rare",
+    "attack": 112,
+    "description": "A rare spear named 'Blood Cry'."
+  },
+  {
+    "id": "weapon_024",
+    "name": "Holy Fang",
+    "type": "Dagger",
+    "tier": "Rare",
+    "attack": 118,
+    "description": "A rare dagger named 'Holy Fang'."
+  },
+  {
+    "id": "weapon_025",
+    "name": "Frost Roar",
+    "type": "Sword",
+    "tier": "Rare",
+    "attack": 88,
+    "description": "A rare sword named 'Frost Roar'."
+  },
+  {
+    "id": "weapon_026",
+    "name": "Phantom Blade",
+    "type": "Axe",
+    "tier": "Rare",
+    "attack": 100,
+    "description": "A rare axe named 'Phantom Blade'."
+  },
+  {
+    "id": "weapon_027",
+    "name": "Phantom Blade",
+    "type": "Sword",
+    "tier": "Rare",
+    "attack": 66,
+    "description": "A rare sword named 'Phantom Blade'."
+  },
+  {
+    "id": "weapon_028",
+    "name": "Iron Edge",
+    "type": "Dagger",
+    "tier": "Rare",
+    "attack": 60,
+    "description": "A rare dagger named 'Iron Edge'."
+  },
+  {
+    "id": "weapon_029",
+    "name": "Frost Bite",
+    "type": "Axe",
+    "tier": "Rare",
+    "attack": 76,
+    "description": "A rare axe named 'Frost Bite'."
+  },
+  {
+    "id": "weapon_030",
+    "name": "Shadow Blade",
+    "type": "Crossbow",
+    "tier": "Rare",
+    "attack": 71,
+    "description": "A rare crossbow named 'Shadow Blade'."
+  },
+  {
+    "id": "weapon_031",
+    "name": "Venom Cry",
+    "type": "Gun",
+    "tier": "Epic",
+    "attack": 138,
+    "description": "A epic gun named 'Venom Cry'."
+  },
+  {
+    "id": "weapon_032",
+    "name": "Frost Cry",
+    "type": "Dagger",
+    "tier": "Epic",
+    "attack": 153,
+    "description": "A epic dagger named 'Frost Cry'."
+  },
+  {
+    "id": "weapon_033",
+    "name": "Phantom Bite",
+    "type": "Gun",
+    "tier": "Epic",
+    "attack": 134,
+    "description": "A epic gun named 'Phantom Bite'."
+  },
+  {
+    "id": "weapon_034",
+    "name": "Shadow Edge",
+    "type": "Whip",
+    "tier": "Epic",
+    "attack": 110,
+    "description": "A epic whip named 'Shadow Edge'."
+  },
+  {
+    "id": "weapon_035",
+    "name": "Doom Claw",
+    "type": "Gun",
+    "tier": "Epic",
+    "attack": 123,
+    "description": "A epic gun named 'Doom Claw'."
+  },
+  {
+    "id": "weapon_036",
+    "name": "Frost Bite",
+    "type": "Gun",
+    "tier": "Epic",
+    "attack": 99,
+    "description": "A epic gun named 'Frost Bite'."
+  },
+  {
+    "id": "weapon_037",
+    "name": "Phantom Song",
+    "type": "Whip",
+    "tier": "Epic",
+    "attack": 154,
+    "description": "A epic whip named 'Phantom Song'."
+  },
+  {
+    "id": "weapon_038",
+    "name": "Frost Fang",
+    "type": "Knuckle",
+    "tier": "Epic",
+    "attack": 138,
+    "description": "A epic knuckle named 'Frost Fang'."
+  },
+  {
+    "id": "weapon_039",
+    "name": "Frost Fang",
+    "type": "Whip",
+    "tier": "Epic",
+    "attack": 106,
+    "description": "A epic whip named 'Frost Fang'."
+  },
+  {
+    "id": "weapon_040",
+    "name": "Flame Edge",
+    "type": "Crossbow",
+    "tier": "Epic",
+    "attack": 114,
+    "description": "A epic crossbow named 'Flame Edge'."
+  },
+  {
+    "id": "weapon_041",
+    "name": "Frost Claw",
+    "type": "Greatsword",
+    "tier": "Legendary",
+    "attack": 169,
+    "description": "A legendary greatsword named 'Frost Claw'."
+  },
+  {
+    "id": "weapon_042",
+    "name": "Storm Blade",
+    "type": "Crossbow",
+    "tier": "Legendary",
+    "attack": 148,
+    "description": "A legendary crossbow named 'Storm Blade'."
+  },
+  {
+    "id": "weapon_043",
+    "name": "Phantom Claw",
+    "type": "Whip",
+    "tier": "Legendary",
+    "attack": 141,
+    "description": "A legendary whip named 'Phantom Claw'."
+  },
+  {
+    "id": "weapon_044",
+    "name": "Phantom Fang",
+    "type": "Staff",
+    "tier": "Legendary",
+    "attack": 166,
+    "description": "A legendary staff named 'Phantom Fang'."
+  },
+  {
+    "id": "weapon_045",
+    "name": "Doom Roar",
+    "type": "Staff",
+    "tier": "Legendary",
+    "attack": 169,
+    "description": "A legendary staff named 'Doom Roar'."
+  },
+  {
+    "id": "weapon_046",
+    "name": "Shadow Edge",
+    "type": "Greatsword",
+    "tier": "Legendary",
+    "attack": 99,
+    "description": "A legendary greatsword named 'Shadow Edge'."
+  },
+  {
+    "id": "weapon_047",
+    "name": "Frost Claw",
+    "type": "Gun",
+    "tier": "Legendary",
+    "attack": 156,
+    "description": "A legendary gun named 'Frost Claw'."
+  },
+  {
+    "id": "weapon_048",
+    "name": "Holy Blade",
+    "type": "Bow",
+    "tier": "Legendary",
+    "attack": 121,
+    "description": "A legendary bow named 'Holy Blade'."
+  },
+  {
+    "id": "weapon_049",
+    "name": "Storm Blade",
+    "type": "Knuckle",
+    "tier": "Legendary",
+    "attack": 156,
+    "description": "A legendary knuckle named 'Storm Blade'."
+  },
+  {
+    "id": "weapon_050",
+    "name": "Frost Roar",
+    "type": "Wand",
+    "tier": "Legendary",
+    "attack": 125,
+    "description": "A legendary wand named 'Frost Roar'."
+  },
+  {
+    "id": "weapon_051",
+    "name": "Shadow Strike",
+    "type": "Staff",
+    "tier": "Mythic",
+    "attack": 128,
+    "description": "A mythic staff named 'Shadow Strike'."
+  },
+  {
+    "id": "weapon_052",
+    "name": "Frost Strike",
+    "type": "Spear",
+    "tier": "Mythic",
+    "attack": 128,
+    "description": "A mythic spear named 'Frost Strike'."
+  },
+  {
+    "id": "weapon_053",
+    "name": "Flame Edge",
+    "type": "Greatsword",
+    "tier": "Mythic",
+    "attack": 132,
+    "description": "A mythic greatsword named 'Flame Edge'."
+  },
+  {
+    "id": "weapon_054",
+    "name": "Venom Strike",
+    "type": "Axe",
+    "tier": "Mythic",
+    "attack": 176,
+    "description": "A mythic axe named 'Venom Strike'."
+  },
+  {
+    "id": "weapon_055",
+    "name": "Venom Strike",
+    "type": "Sword",
+    "tier": "Mythic",
+    "attack": 164,
+    "description": "A mythic sword named 'Venom Strike'."
+  },
+  {
+    "id": "weapon_056",
+    "name": "Frost Roar",
+    "type": "Wand",
+    "tier": "Mythic",
+    "attack": 129,
+    "description": "A mythic wand named 'Frost Roar'."
+  },
+  {
+    "id": "weapon_057",
+    "name": "Iron Cry",
+    "type": "Staff",
+    "tier": "Mythic",
+    "attack": 135,
+    "description": "A mythic staff named 'Iron Cry'."
+  },
+  {
+    "id": "weapon_058",
+    "name": "Blood Fang",
+    "type": "Spear",
+    "tier": "Mythic",
+    "attack": 194,
+    "description": "A mythic spear named 'Blood Fang'."
+  },
+  {
+    "id": "weapon_059",
+    "name": "Iron Wrath",
+    "type": "Whip",
+    "tier": "Mythic",
+    "attack": 149,
+    "description": "A mythic whip named 'Iron Wrath'."
+  },
+  {
+    "id": "weapon_060",
+    "name": "Venom Song",
+    "type": "Axe",
+    "tier": "Mythic",
+    "attack": 154,
+    "description": "A mythic axe named 'Venom Song'."
+  },
+  {
+    "id": "weapon_061",
+    "name": "Holy Fang",
+    "type": "Gun",
+    "tier": "Elite",
+    "attack": 210,
+    "description": "A elite gun named 'Holy Fang'."
+  },
+  {
+    "id": "weapon_062",
+    "name": "Holy Song",
+    "type": "Sword",
+    "tier": "Elite",
+    "attack": 151,
+    "description": "A elite sword named 'Holy Song'."
+  },
+  {
+    "id": "weapon_063",
+    "name": "Doom Cry",
+    "type": "Dagger",
+    "tier": "Elite",
+    "attack": 215,
+    "description": "A elite dagger named 'Doom Cry'."
+  },
+  {
+    "id": "weapon_064",
+    "name": "Storm Roar",
+    "type": "Whip",
+    "tier": "Elite",
+    "attack": 192,
+    "description": "A elite whip named 'Storm Roar'."
+  },
+  {
+    "id": "weapon_065",
+    "name": "Blood Roar",
+    "type": "Bow",
+    "tier": "Elite",
+    "attack": 199,
+    "description": "A elite bow named 'Blood Roar'."
+  },
+  {
+    "id": "weapon_066",
+    "name": "Frost Bite",
+    "type": "Crossbow",
+    "tier": "Elite",
+    "attack": 158,
+    "description": "A elite crossbow named 'Frost Bite'."
+  },
+  {
+    "id": "weapon_067",
+    "name": "Phantom Strike",
+    "type": "Axe",
+    "tier": "Elite",
+    "attack": 134,
+    "description": "A elite axe named 'Phantom Strike'."
+  },
+  {
+    "id": "weapon_068",
+    "name": "Holy Wrath",
+    "type": "Gun",
+    "tier": "Elite",
+    "attack": 174,
+    "description": "A elite gun named 'Holy Wrath'."
+  },
+  {
+    "id": "weapon_069",
+    "name": "Blood Claw",
+    "type": "Dagger",
+    "tier": "Elite",
+    "attack": 186,
+    "description": "A elite dagger named 'Blood Claw'."
+  },
+  {
+    "id": "weapon_070",
+    "name": "Venom Edge",
+    "type": "Knuckle",
+    "tier": "Elite",
+    "attack": 216,
+    "description": "A elite knuckle named 'Venom Edge'."
+  },
+  {
+    "id": "weapon_071",
+    "name": "Frost Claw",
+    "type": "Gun",
+    "tier": "Boss",
+    "attack": 157,
+    "description": "A boss gun named 'Frost Claw'."
+  },
+  {
+    "id": "weapon_072",
+    "name": "Frost Roar",
+    "type": "Sword",
+    "tier": "Boss",
+    "attack": 152,
+    "description": "A boss sword named 'Frost Roar'."
+  },
+  {
+    "id": "weapon_073",
+    "name": "Blood Wrath",
+    "type": "Gun",
+    "tier": "Boss",
+    "attack": 172,
+    "description": "A boss gun named 'Blood Wrath'."
+  },
+  {
+    "id": "weapon_074",
+    "name": "Phantom Claw",
+    "type": "Whip",
+    "tier": "Boss",
+    "attack": 203,
+    "description": "A boss whip named 'Phantom Claw'."
+  },
+  {
+    "id": "weapon_075",
+    "name": "Iron Song",
+    "type": "Axe",
+    "tier": "Boss",
+    "attack": 181,
+    "description": "A boss axe named 'Iron Song'."
+  },
+  {
+    "id": "weapon_076",
+    "name": "Flame Roar",
+    "type": "Bow",
+    "tier": "Boss",
+    "attack": 174,
+    "description": "A boss bow named 'Flame Roar'."
+  },
+  {
+    "id": "weapon_077",
+    "name": "Blood Song",
+    "type": "Dagger",
+    "tier": "Boss",
+    "attack": 174,
+    "description": "A boss dagger named 'Blood Song'."
+  },
+  {
+    "id": "weapon_078",
+    "name": "Doom Claw",
+    "type": "Whip",
+    "tier": "Boss",
+    "attack": 174,
+    "description": "A boss whip named 'Doom Claw'."
+  },
+  {
+    "id": "weapon_079",
+    "name": "Blood Fang",
+    "type": "Whip",
+    "tier": "Boss",
+    "attack": 237,
+    "description": "A boss whip named 'Blood Fang'."
+  },
+  {
+    "id": "weapon_080",
+    "name": "Phantom Edge",
+    "type": "Whip",
+    "tier": "Boss",
+    "attack": 177,
+    "description": "A boss whip named 'Phantom Edge'."
+  },
+  {
+    "id": "weapon_081",
+    "name": "Iron Cry",
+    "type": "Axe",
+    "tier": "Overlord",
+    "attack": 239,
+    "description": "A overlord axe named 'Iron Cry'."
+  },
+  {
+    "id": "weapon_082",
+    "name": "Venom Fang",
+    "type": "Axe",
+    "tier": "Overlord",
+    "attack": 252,
+    "description": "A overlord axe named 'Venom Fang'."
+  },
+  {
+    "id": "weapon_083",
+    "name": "Doom Wrath",
+    "type": "Whip",
+    "tier": "Overlord",
+    "attack": 260,
+    "description": "A overlord whip named 'Doom Wrath'."
+  },
+  {
+    "id": "weapon_084",
+    "name": "Flame Wrath",
+    "type": "Wand",
+    "tier": "Overlord",
+    "attack": 199,
+    "description": "A overlord wand named 'Flame Wrath'."
+  },
+  {
+    "id": "weapon_085",
+    "name": "Doom Roar",
+    "type": "Axe",
+    "tier": "Overlord",
+    "attack": 250,
+    "description": "A overlord axe named 'Doom Roar'."
+  },
+  {
+    "id": "weapon_086",
+    "name": "Holy Wrath",
+    "type": "Axe",
+    "tier": "Overlord",
+    "attack": 252,
+    "description": "A overlord axe named 'Holy Wrath'."
+  },
+  {
+    "id": "weapon_087",
+    "name": "Iron Blade",
+    "type": "Dagger",
+    "tier": "Overlord",
+    "attack": 229,
+    "description": "A overlord dagger named 'Iron Blade'."
+  },
+  {
+    "id": "weapon_088",
+    "name": "Phantom Edge",
+    "type": "Sword",
+    "tier": "Overlord",
+    "attack": 188,
+    "description": "A overlord sword named 'Phantom Edge'."
+  },
+  {
+    "id": "weapon_089",
+    "name": "Iron Blade",
+    "type": "Whip",
+    "tier": "Overlord",
+    "attack": 252,
+    "description": "A overlord whip named 'Iron Blade'."
+  },
+  {
+    "id": "weapon_090",
+    "name": "Phantom Bite",
+    "type": "Bow",
+    "tier": "Overlord",
+    "attack": 187,
+    "description": "A overlord bow named 'Phantom Bite'."
+  },
+  {
+    "id": "weapon_091",
+    "name": "Doom Roar",
+    "type": "Spear",
+    "tier": "Divine",
+    "attack": 216,
+    "description": "A divine spear named 'Doom Roar'."
+  },
+  {
+    "id": "weapon_092",
+    "name": "Holy Blade",
+    "type": "Gun",
+    "tier": "Divine",
+    "attack": 262,
+    "description": "A divine gun named 'Holy Blade'."
+  },
+  {
+    "id": "weapon_093",
+    "name": "Venom Cry",
+    "type": "Dagger",
+    "tier": "Divine",
+    "attack": 263,
+    "description": "A divine dagger named 'Venom Cry'."
+  },
+  {
+    "id": "weapon_094",
+    "name": "Holy Fang",
+    "type": "Sword",
+    "tier": "Divine",
+    "attack": 234,
+    "description": "A divine sword named 'Holy Fang'."
+  },
+  {
+    "id": "weapon_095",
+    "name": "Blood Blade",
+    "type": "Gun",
+    "tier": "Divine",
+    "attack": 245,
+    "description": "A divine gun named 'Blood Blade'."
+  },
+  {
+    "id": "weapon_096",
+    "name": "Venom Cry",
+    "type": "Knuckle",
+    "tier": "Divine",
+    "attack": 270,
+    "description": "A divine knuckle named 'Venom Cry'."
+  },
+  {
+    "id": "weapon_097",
+    "name": "Iron Blade",
+    "type": "Whip",
+    "tier": "Divine",
+    "attack": 278,
+    "description": "A divine whip named 'Iron Blade'."
+  },
+  {
+    "id": "weapon_098",
+    "name": "Frost Strike",
+    "type": "Dagger",
+    "tier": "Divine",
+    "attack": 257,
+    "description": "A divine dagger named 'Frost Strike'."
+  },
+  {
+    "id": "weapon_099",
+    "name": "Blood Claw",
+    "type": "Whip",
+    "tier": "Divine",
+    "attack": 212,
+    "description": "A divine whip named 'Blood Claw'."
+  },
+  {
+    "id": "weapon_100",
+    "name": "Frost Roar",
+    "type": "Crossbow",
+    "tier": "Divine",
+    "attack": 276,
+    "description": "A divine crossbow named 'Frost Roar'."
+  }
+]
