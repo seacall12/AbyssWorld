@@ -36,8 +36,16 @@
 ---
 
 ## **📂 프로젝트 구조**  
-/AbyssWorld ├── Assets/ # 게임 리소스 (그래픽, 사운드, UI 등) ├── Scripts/ # C# 스크립트 파일 (캐릭터, 몬스터, UI 등) ├── Prefabs/ # 미리 설정된 게임 오브젝트 ├── Scenes/ # Unity 씬 파일 (마을, 던전, 전투 필드 등) ├── Animations/ # 캐릭터 및 몬스터 애니메이션 ├── Sounds/ # 배경음악 및 효과음 ├── UI/ # 게임 UI 관련 리소스 ├── Docs/ # 게임 기획서 및 문서 └── README.md # 프로젝트 소개 파일 (현재 문서)
-
+AbyssWorld/
+├── Assets/
+│   ├── Scripts/                # C# 스크립트
+│   ├── Prefabs/                # 캐릭터, 몬스터, 오브젝트 프리팹
+│   ├── Scenes/                 # 게임 씬
+│   ├── UI/                     # 인터페이스 관련 요소
+│   └── Resources/              # 에셋 리소스
+├── ProjectSettings/
+├── Packages/
+└── README.md
 ---
 
 ## **🔧 빌드 & 실행 방법**  
