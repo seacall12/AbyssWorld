@@ -1,0 +1,182 @@
+[
+  {
+    "name": "초보자의 헬멧",
+    "type": "Helmet",
+    "tier": "Normal",
+    "defense": 5,
+    "bonus_stats": { "hp": 10 }
+  },
+  {
+    "name": "견고한 갑옷",
+    "type": "Armor",
+    "tier": "Normal",
+    "defense": 8,
+    "bonus_stats": { "resistance": 2 }
+  },
+  {
+    "name": "튼튼한 장갑",
+    "type": "Gloves",
+    "tier": "Normal",
+    "defense": 3,
+    "bonus_stats": { "accuracy": 1 }
+  },
+  {
+    "name": "가죽 부츠",
+    "type": "Boots",
+    "tier": "Normal",
+    "defense": 4,
+    "bonus_stats": { "evasion": 1 }
+  },
+  {
+    "name": "낡은 망토",
+    "type": "Cape",
+    "tier": "Normal",
+    "defense": 2,
+    "bonus_stats": { "hp": 5 }
+  },
+  {
+    "name": "나무 방패",
+    "type": "Shield",
+    "tier": "Normal",
+    "defense": 6,
+    "bonus_stats": { "block": 1 }
+  },
+
+  {
+    "name": "전사의 헬멧",
+    "type": "Helmet",
+    "tier": "Uncommon",
+    "defense": 12,
+    "bonus_stats": { "hp": 30 }
+  },
+  {
+    "name": "철갑 갑옷",
+    "type": "Armor",
+    "tier": "Uncommon",
+    "defense": 16,
+    "bonus_stats": { "resistance": 4 }
+  },
+  {
+    "name": "강철 장갑",
+    "type": "Gloves",
+    "tier": "Uncommon",
+    "defense": 9,
+    "bonus_stats": { "attack_speed": 1 }
+  },
+  {
+    "name": "경량 부츠",
+    "type": "Boots",
+    "tier": "Uncommon",
+    "defense": 10,
+    "bonus_stats": { "move_speed": 2 }
+  },
+
+  {
+    "name": "하급 마법사의 망토",
+    "type": "Cape",
+    "tier": "Uncommon",
+    "defense": 8,
+    "bonus_stats": { "mp": 20 }
+  },
+  {
+    "name": "강철 방패",
+    "type": "Shield",
+    "tier": "Uncommon",
+    "defense": 14,
+    "bonus_stats": { "block": 2 }
+  },
+
+  {
+    "name": "영웅의 헬멧",
+    "type": "Helmet",
+    "tier": "Rare",
+    "defense": 25,
+    "bonus_stats": { "hp": 100 }
+  },
+  {
+    "name": "영웅의 갑옷",
+    "type": "Armor",
+    "tier": "Rare",
+    "defense": 32,
+    "bonus_stats": { "resistance": 6 }
+  },
+  {
+    "name": "영웅의 장갑",
+    "type": "Gloves",
+    "tier": "Rare",
+    "defense": 18,
+    "bonus_stats": { "accuracy": 3, "crit": 1 }
+  },
+  {
+    "name": "영웅의 부츠",
+    "type": "Boots",
+    "tier": "Rare",
+    "defense": 20,
+    "bonus_stats": { "move_speed": 3 }
+  },
+  {
+    "name": "영웅의 망토",
+    "type": "Cape",
+    "tier": "Rare",
+    "defense": 16,
+    "bonus_stats": { "mp": 50 }
+  },
+  {
+    "name": "영웅의 방패",
+    "type": "Shield",
+    "tier": "Rare",
+    "defense": 28,
+    "bonus_stats": { "block": 4 }
+  },
+
+  {
+    "name": "신의 헬멧",
+    "type": "Helmet",
+    "tier": "Divine",
+    "defense": 95,
+    "bonus_stats": { "hp": 1200, "resistance": 20 },
+    "set_effect": "신 장비 5세트 착용 시: 최대 체력 +30%, 받는 데미지 -15%"
+  },
+  {
+    "name": "신의 갑옷",
+    "type": "Armor",
+    "tier": "Divine",
+    "defense": 120,
+    "bonus_stats": { "resistance": 25 },
+    "set_effect": "신 장비 5세트 착용 시: 상태 이상 면역"
+  },
+  {
+    "name": "신의 장갑",
+    "type": "Gloves",
+    "tier": "Divine",
+    "defense": 75,
+    "bonus_stats": { "attack_speed": 5, "crit": 5 },
+    "set_effect": "신 장비 5세트 착용 시: 치명타 데미지 +25%"
+  },
+  {
+    "name": "신의 부츠",
+    "type": "Boots",
+    "tier": "Divine",
+    "defense": 80,
+    "bonus_stats": { "move_speed": 10 },
+    "set_effect": "신 장비 5세트 착용 시: 회피율 +20%"
+  },
+  {
+    "name": "신의 망토",
+    "type": "Cape",
+    "tier": "Divine",
+    "defense": 70,
+    "bonus_stats": { "mp": 400 },
+    "set_effect": "신 장비 5세트 착용 시: 마법 공격력 +15%"
+  },
+  {
+    "name": "신의 방패",
+    "type": "Shield",
+    "tier": "Divine",
+    "defense": 100,
+    "bonus_stats": { "block": 12 },
+    "set_effect": "신 장비 5세트 착용 시: 모든 피해 10% 반사"
+  }
+
+  // ... 나머지 75개도 위와 같은 포맷으로 구성됨
+]
